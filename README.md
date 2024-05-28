@@ -1,12 +1,28 @@
 # My projects
-I made a command-line web browser: WLine.
-A command-line text editor: Glitch.
-A deciaml-to-binary converter: Debin.
-A nonsense programming language: What The Code (WTC).
-## The languages I use
-1. Python
-2. C (best language in my opinion)
-3. HTML & CSS
-4. BASH
-## Coming soon...
-I am actually working on a serious programming language...
+**Glitch**:
+Glitch is a CLI text editor wrote in Python. It allows you to manage and edit your files.
+For example, you can make and remove files, change the perimissions of a file...
+The file edition is a bit hard because you can edit a file on a one-line input and you must rewrite
+the entire content of the file.
+
+**WLine**:
+WLine is a CLI web browser wrote in Python. It extracts the HTML content of the web pages
+you want to visit and print them. There are also some useful commands: a help command, a history
+command...
+
+**Debin**:
+Debin is a very little CLI tool I made for fun. It is used to convert decimal numbers into binary.
+That's all.
+
+**What The Code**:
+What The Code is an exotic programming language wrote in Python (with PLY). I made it just to break
+your brain because this is a NONSENSE programming langugae. For example ? The end of a statement is
+`.,` and you must use the operator `yay` to make a division.
+
+# The languages I use
+- Python
+- C
+- BASH
+- HTML/CSS (YEAH I KNOW THESE LANGUAGES ARE NOT PROGRAMMING LANGUAGES)
+
+  -- *Python and C are the best programming languages*
