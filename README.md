@@ -26,3 +26,7 @@ your brain because this is a NONSENSE programming langugae. For example ? The en
 - HTML/CSS (YEAH I KNOW THESE LANGUAGES ARE NOT PROGRAMMING LANGUAGES)
 
   -- *Python and C are the best programming languages*
+
+# Branches
+Main: my main branch
+Pieces-of-code: some code ideas I put here
