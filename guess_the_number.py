@@ -10,6 +10,7 @@ def main():
     if int(s) == n:
       rounds += 1
       print(f"GG! You won in {rounds}!")
+      break
     elif int(s) < n:
       rounds += 1
       print("The number is greater.")
