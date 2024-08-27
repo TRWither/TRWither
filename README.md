@@ -1,4 +1,7 @@
 # My projects
+!NEW **Fox**
+Fox is a minimalist programming language that is executable only via the command-line. It has 3 functionnalities: basic math operations, text manipulation, file manipulation, and more than 15 commands. Link: https://github.com/TRWither/Fox
+
 **Glitch**:
 Glitch is a CLI text editor wrote in Python. It allows you to manage and edit your files.
 For example, you can make and remove files, change the perimissions of a file...
