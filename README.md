@@ -1,5 +1,8 @@
 # My projects
-!NEW **Fox**
+!NEW! **PanCake**: this is an open-source text-based easy to use tasks manager (like a TODO) which can be used in the terminal. It works with simple commands, like `new`, `remove`, `tasks`... It has a trash system, a good help command and an installation file (install.sh), which setup the tool for you! The version 1.1 is out, try it here: https://github.com/TRWither/pancake.
+Hope you will enjoy!
+
+**Fox**
 Fox is a minimalist programming language that is executable only via the command-line. It has 3 functionnalities: basic math operations, text manipulation, file manipulation, and more than 15 commands. Link: https://github.com/TRWither/Fox
 
 **Glitch**:
